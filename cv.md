@@ -11,6 +11,7 @@
 - *Nationality:* Russian
 - *Discord:* Evgeniy (@EvgeniyMorozov164)
 - *Email:* legion.180690@mail.ru
+- *GitHub:* [Evgeniy Morozov](https://github.com/EvgeniyMorozov164)
 
 
 ## ***About me***
