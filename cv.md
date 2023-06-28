@@ -22,13 +22,13 @@ My goal is to become a **web developer**. I like to study, to learn something ne
 **Also** I have the diploma of professional retraining in the field of "economics and management (in construction) (development of design and estimate documentation)". I studied in 2021 from February to May.
 
 ## ***Personal qualities***
--Reliable
--Diligent
--Tolerant
--Friendly
--Team player
--Sociable
--Polite
+- Reliable
+- Diligent
+- Tolerant
+- Friendly
+- Team player
+- Sociable
+- Polite
 
 ## ***Special skills***
 *Language skills:* **Russian - _Native_**, **English - _Pre-Intermediate_**
