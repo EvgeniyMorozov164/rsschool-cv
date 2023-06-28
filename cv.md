@@ -2,15 +2,15 @@
 
 ## ***Personal information***
 
-*Name:* Evgeniy Morozov
-*Address:* Saratov, Russia
-*Phone number: mobile:* +7-962-618-46-19
-*Marital status:* Single
-*Date of birth:* June 18th, 1990
-*Age:* 33 y.o.
-*Nationality:* Russian
-*Discord:* Evgeniy (@EvgeniyMorozov164)
-*Email:* legion.180690@mail.ru
+- *Name:* Evgeniy Morozov
+- *Address:* Saratov, Russia
+- *Phone number: mobile:* +7-962-618-46-19
+- *Marital status:* Single
+- *Date of birth:* June 18th, 1990
+- *Age:* 33 y.o.
+- *Nationality:* Russian
+- *Discord:* Evgeniy (@EvgeniyMorozov164)
+- *Email:* legion.180690@mail.ru
 
 
 ## ***About me***
@@ -42,12 +42,12 @@ My goal is to become a **web developer**. I like to study, to learn something ne
 
 ## ***Special skills***
 
-*Language skills:*
+### *Language skills:*
 
 - **Russian - _Native_**
 - **English - _Pre-Intermediate_**
 
-*Computer literacy:*
+### *Computer literacy:*
 
 - OS Windows
 - MS Word
