@@ -11,26 +11,25 @@
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li>Personal information</li>
-                <li>About me</li>
-                <li>Education</li>
-                <li>Qualifications</li>
-                <li>Personal qualities</li>
-                <li>Special skills
-                    <ul>
-                        <li>Language skills</li>
-                        <li>Computer literacy</li>
-                    </ul>
-                </li>
-                <li>Programming</li>
-                <li>Code</li>
-                <li>Projects</li>
+        <div class="container">
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#persInfo" class="nav-link">Personal information</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About me</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                <li class="nav-item"><a href="#qualifications" class="nav-link">Qualifications</a></li>
+                <li class="nav-item"><a href="#persQualities" class="nav-link">Personal qualities</a></li>
+                <li class="nav-item"><a href="#language" class="nav-link">Language skills</a></li>
+                <li class="nav-item"><a href="#compLiteracy" class="nav-link">Computer literacy</a></li>                  
+                <li class="nav-item"><a href="#programming" class="nav-link">Programming</a></li>
+                <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
             </ul>
         </nav>
+        </div>
     </header>
     <main>
+        <div class="container">
         <h1>Evgeniy Morozov</h1>
         <section>
             <h2>Personal information</h2>
@@ -108,8 +107,10 @@
         </section>
         <section>
             <h2>Code</h2>
-            <p>Calculation of pi by Euler 's formula</p>
-            <code>Scanner in = new Scanner(System.in);
+            <p>Calculation of pi by Euler 's formula (Java):</p>
+            <code>
+                <pre>
+                Scanner in = new Scanner(System.in);
                 int n;
                 double Pi;
                 double sum = 0;
@@ -119,15 +120,20 @@
                     sum += 1 / Math.pow(i + 1, 2);
                 }
                 Pi = Math.sqrt(6 * sum);
-                System.out.println("Pi for n = " + Pi);</code>
+                System.out.println("Pi for n = " + Pi);
+                </pre>
+            </code>
         </section>
         <section>
             <h2>Projects</h2>
             <p>CV</p>
         </section>
+        </div>
     </main>
     <footer>
-        <p>MyGithub: https://github.com/EvgeniyMorozov164</p>
+        <div class="container">
+          <p>MyGithub: https://github.com/EvgeniyMorozov164</p>
+        </div>
     </footer>
 </body>
 </html>
