@@ -1,3 +1,3 @@
 # CV Evgeniy Morozov
-https://EvgeniyMorozov164.github.io/rsschool-cv/
-https://EvgeniyMorozov164.github.io/rsschool-cv/cv
+1. https://EvgeniyMorozov164.github.io/rsschool-cv/
+2. https://EvgeniyMorozov164.github.io/rsschool-cv/cv
