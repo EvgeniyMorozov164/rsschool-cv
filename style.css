@@ -1,3 +1,126 @@
-body {
-    background-color: bisque;
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {    
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav {
+    font-size: 16px;
+    font-weight: bold;    
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {    
+    color: #000000;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #ed2939;
+}
+
+header {
+    background-color: #fffff0;
+    border-bottom: 1px solid #000000;
+}
+
+main {
+    background-color: #fffff0;    
+    border-bottom: 1px solid #000000;
+    padding-bottom: 20px;    
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    }
+
+.name {     
+    font-weight: 300;
+    font-size: 44px;
+    letter-spacing: 3px;
+}
+
+.h2 {
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+}
+
+.list {
+    list-style: none;
+    list-style-type: square;
+    list-style-position: outside;
+}
+
+.special-style {
+    font-style: italic;
+}
+
+.gitHub-link {
+    color: #000000;
+    text-decoration: none;    
+    transition: color 0.3s;
+}
+
+.gitHub-link:hover {
+    color: #ed2939;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+.section {
+    width: 50%;
+}
+
+.code {
+    text-align: left;
+}
+
+.first-letter {
+    color: #ed2939;
+}
+
+.footer {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+footer {
+    background-color: #fffff0;
 }
